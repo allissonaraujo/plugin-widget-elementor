@@ -1,9 +1,7 @@
+![wpandelementor-350x127](https://user-images.githubusercontent.com/93150352/223945147-c4b72f4b-0df4-448f-b4c8-cf4321cba879.png)
 # Base Plugin Widget Elementor  ![](https://img.shields.io/badge/Status-Finalizado-green)
 
 > Código base para a criação de um plugin para Wordpress que implementa um widget no Elementor
-
-
-
 
 
 ## Como usar	/ How to Use
@@ -36,3 +34,4 @@ Allisson Araujo –  [allissondebrito@gmail.com](mailto:allissondebrito@gmail.co
 - *commit* (`git commit -am 'Commit message'`)
 - *Push* (`git push origin feature/plugin-widget-elementor`)
 - Create a new *Pull Request*
+
