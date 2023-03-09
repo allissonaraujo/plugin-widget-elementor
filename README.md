@@ -33,6 +33,6 @@ Allisson Araujo –  [allissondebrito@gmail.com](mailto:allissondebrito@gmail.co
 
 - *fork* the project (https://github.com/allissonaraujo/plugin-widget-elementor/fork)
 - Create a *branch* for your modification (`git checkout -b feature/plugin-widget-elementor`)
- -*commit* (`git commit -am 'Commit message'`)
- -*Push* (`git push origin feature/plugin-widget-elementor`)
- -Create a new *Pull Request*
+- *commit* (`git commit -am 'Commit message'`)
+- *Push* (`git push origin feature/plugin-widget-elementor`)
+- Create a new *Pull Request*
