@@ -14,12 +14,6 @@ Todo a lógica do funcionamento do seu widget deve ser inserida dentro da funç�
 Este diretório deve está dentro do diretório de plugins do Wordpress para que ele funcione como o esperado.
 ```
 
-Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado. Adicione blocos de códigos e, se necessário, screenshots.
-
-*Para mais exemplos, consulte a [Wiki](https://github.com/seunome/seuprojeto/wiki).*
-
-
-
 ## Sobre o desenvolvedor
 
 Allisson Araujo –  [allissondebrito@gmail.com](mailto:allissondebrito@gmail.com)
